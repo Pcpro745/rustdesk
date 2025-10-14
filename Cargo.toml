@@ -1,11 +1,11 @@
 [package]
-name = "Waller_Remote"
+name = "waller_remote"
 version = "1.4.2"
 authors = ["Waller IT Services <info@walleritservices.com>"]
 edition = "2021"
 build= "build.rs"
 description = "Waller Remote Desktop"
-default-run = "remotewaller"
+default-run = "waller_remote"
 rust-version = "1.75"
 
 [lib]
