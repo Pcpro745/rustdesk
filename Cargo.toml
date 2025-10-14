@@ -1,5 +1,5 @@
 [package]
-name = "Waller Remote"
+name = "Waller_Remote"
 version = "1.4.2"
 authors = ["Waller IT Services <info@walleritservices.com>"]
 edition = "2021"
@@ -221,7 +221,7 @@ hound = "3.5"
 docopt = "1.1"
 
 [package.metadata.bundle]
-name = "waller remote"
+name = "waller_remote"
 identifier = "com.carriez.wallerdesk"
 icon = ["res/32x32.png", "res/128x128.png", "res/128x128@2x.png"]
 osx_minimum_system_version = "10.14"
